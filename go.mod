@@ -1,4 +1,4 @@
-module typography
+module github.com/smiyaguchi/typography
 
 go 1.19
 
